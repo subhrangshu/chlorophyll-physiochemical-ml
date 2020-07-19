@@ -8,6 +8,6 @@ Chlorophyll and Physiochemical Features Relationship with Machine Learning, Deep
     month  = "jul",
     year   = "2020",
     url    = "https://github.com/subhrangshu/chlorophyll-physiochemical-ml",
-    doi    = "DOI: 10.5281/zenodo.3951632"
+    doi    = "10.5281/zenodo.3951632"
 }
 ```
